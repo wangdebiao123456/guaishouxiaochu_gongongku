@@ -1,0 +1,13 @@
+aligin文件夹：对齐基础代码
+comfuncs:功能模块代码
+dlg:弹框
+main:大厅代码
+mng:公共管理类代码
+pingpinggame：花朵拼拼代码，去掉了业务逻辑代码
+platgform:跨平台代码
+PlayerGuide：引导代码
+start：开始游戏逻辑
+tiaozhan：挑战弹框
+utils：基础逻辑代码
+WDT:工具类代码
+微信小游戏release:编译出来的提审的微信小游戏包
